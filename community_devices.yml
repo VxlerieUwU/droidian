@@ -1,0 +1,14 @@
+# This file has been generated automatically by droidian-new-device
+
+# lge bullhead
+lge_bullhead:
+  type: image
+  arch: arm64
+  edition: phosh
+  variant: phone
+  apilevel: 28
+  use_internal_repository: true
+
+  packages:
+    - adaptation-lge-bullhead
+    - adaptation-lge-bullhead-configs
